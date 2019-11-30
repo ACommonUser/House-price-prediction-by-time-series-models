@@ -1,4 +1,7 @@
 # House-price-prediction-by-time-series-models
-Housing price plays an important role in the economy as it involves construction industry, material producing and delivering departments, construction equipment and also labour market (Upadhyaya et al, 2017). Besides, house, as not only an expensive necessity for human but also one of the most popular investment alternatives, make the price of it has the significant influence on economic stability. When the housing price enters the investment area, it becomes the crucial element that influences all of the real estate market, the stock market and more importantly, the financial market (Lee, 2014). If the housing price dramatically increases, it can stimulate the stock, and then the prosperity of stocks can reversely boost the housing price (Upadhyaya et al, 2017). Property bubble might occur when more investors enter the market and drive up demand. When housing price goes down for a certain period of time, a significant negative signal will be viewed in the investment markets and the confidence of investors will be hurt. At the same time, the stock price can be violently influenced and fall simultaneously. 
 
-Because the housing price fluctuation heavily violates the economic stability, it is important to effectively forecast the housing price in the market and take actions to avoid being exposed to such serious economic risk. So as a team of professional analysts, we are hired by the Australian Federal government to conduct forecasting and use the results to provide some insights into the fluctuation of housing price in the Australian market. Hence, in this report, we will use 10 years’ data from April 2007 to March 2018 to set up forecasting models to predict the housing price in Australian market and then we will provide economic insights to help government prevent possible serious market violations in advance. 
+- The data is refined from ABS
+
+- Only codes are shown here, no descriptions
+
+
