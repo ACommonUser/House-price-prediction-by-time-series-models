@@ -2,6 +2,6 @@
 
 - The data is refined from ABS
 
-- Only codes are shown here, no descriptions
+- Only codes are shown here, basic descriptions can be found in line with codes
 
 
